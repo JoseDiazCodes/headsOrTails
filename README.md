@@ -77,4 +77,3 @@ Below is a gif demonstrating the functionality of the coin flip game:
 ## Conclusion
 
 Developing this coin flip game helped cement my understanding of how client-side and server-side scripts interact, the importance of server-side validation, and how to dynamically update web pages based on server responses. It was a valuable step in my journey towards becoming a full-stack developer.
-# headsOrTails
